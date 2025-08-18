@@ -35,7 +35,7 @@ export default function Features() {
         <div>
             <div>
             <img src="/cable-tv-logo.svg" alt="logo"/>
-            <h2>Entertainment Without Interruptions</h2>
+            <h2>Entertainment Without Interrupttions</h2>
             <p>Renew your TV cable subscriptions in just a few clicks and never<br></br> miss your favourite shows again. </p>
             <button>
                 <span>Pay Now &rarr; </span>
