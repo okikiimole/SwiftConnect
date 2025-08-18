@@ -1,0 +1,68 @@
+.hero{
+    text-align: center;
+    padding: 60px 20px;
+}
+.hero-container{
+    max-width: 900px;
+    margin: auto;    
+}
+.btn-image1{
+    width: 19px;
+    padding-top: 3px 2px;
+    
+}
+.btn-image2{
+    width: 18px;
+    padding: 2px;
+}
+.three-herodiv{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+.mockup1-image{
+    width: min-content;
+    margin-top: 20px;
+}
+.btn2-container{
+    display: flex;
+    flex-direction:row;
+    gap: 10px;
+}
+.apple-btn{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 18px;
+    text-align:start;
+    
+    
+}
+.playstore-btn{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 18px;
+}
+h1{
+    margin: 0;
+    color: #1C451C;
+    font-size: 55px;
+    font-weight: regular (400);
+    letter-spacing: normal;
+}
+.head-div{
+    color: #111827;
+    text-align:justify;
+    padding-left: 250px;
+}
+.head-container{
+    margin-top: -45px;
+}
+p{
+    font-size: 20px;
+    color:#4B5563 ;
+    font-weight: regular (400);
+    letter-spacing: normal;
+}
