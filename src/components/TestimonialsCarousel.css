@@ -1,0 +1,80 @@
+.testimonial-section {
+  width: 100%;
+  max-width: 1200px;
+  margin: 60px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.testimonial-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 30px;
+  color: #222;
+}
+
+/* Card styling */
+.testimonial-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 25px 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  min-height: 220px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Abbreviation circle */
+.testimonial-abbr {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: #1F2937;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 15px;
+}
+
+/* Testimonial text */
+.testimonial-text {
+  font-size: 1rem;
+  color: #1F2937;
+  font-style: italic;
+  font-weight:500;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+/* Author name */
+.testimonial-author {
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+/* Job title */
+.testimonial-title-small {
+  font-size: 0.9rem;
+  color: #6B7280;
+}
+
+/* Pagination dots */
+.swiper-pagination-bullet {
+  cursor: pointer;
+  display: inline-block;
+  background: #111827;
+  opacity: 0.6;
+  width:15px;
+  height: 15px;
+  border-radius: 50%;
+}
+
+.swiper-pagination-bullet-active {
+  opacity: 1;
+}
