@@ -4,7 +4,7 @@ import Home from "./Pages/Home";
 import "./styles/forms.css";
 import Login from "./Pages/Login";
 import SignUp from "./Pages/SignUp";
-import Dashboard from "./Pages/dashboard";
+import Dashboard from "./Pages/Dashboard";
 
 
 
